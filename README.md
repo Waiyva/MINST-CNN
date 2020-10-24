@@ -5,8 +5,8 @@
 
 ## 目录结构
 
-+ **.m文件：**matlab源文件
-+ **MINSTData.mat：**训练数据集和测试数据集，可用load函数导入matlab
++ .m文件：matlab源文件
++ MINSTData.mat：训练数据集和测试数据集，可用load函数导入matlab
 
 
 
