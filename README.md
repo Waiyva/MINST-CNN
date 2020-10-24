@@ -3,6 +3,13 @@
 
 
 
+## 目录结构
+
++ **.m文件：**matlab源文件
++ **MINSTData.mat：**训练数据集和测试数据集，可用load函数导入matlab
+
+
+
 ## 网络设计
 
 ![image-20201024225324048](./README.assets/image-20201024225324048.png)
